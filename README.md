@@ -22,7 +22,8 @@ What pattern do you see? Explain.
 Which month had the highest rain rate? Which month had the lowest rain rate? 
 Which month had the highest wind speed? Which month had the lowest wind speed? 
 	
-Solution
+## Solution
+
 4) Wind Speed
 
 <img src="https://github.com/Rmr1197/project2/blob/master/Images/1.PNG" height="250" width="350"><img src="https://github.com/Rmr1197/project2/blob/master/Images/2.PNG" height="250" width="350">
