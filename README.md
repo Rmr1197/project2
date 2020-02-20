@@ -45,9 +45,6 @@ Which month had the highest wind speed? Which month had the lowest wind speed?
 
 <img src="https://github.com/Rmr1197/project2/blob/master/Images/9.PNG" height="250" width="350"><img src="https://github.com/Rmr1197/project2/blob/master/Images/10.PNG" height="250" width="350">
 
-Results
+## References
 
-Conclusion
-
-References
 “Ocean Observatories Initiative.” Ocean Observatories Initiative, oceanobservatories.org/.
