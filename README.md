@@ -35,18 +35,26 @@ Which month had the highest wind speed? Which month had the lowest wind speed?
 
 <img src="https://github.com/Rmr1197/project2/blob/master/Images/3.PNG" height="250" width="350"><img src="https://github.com/Rmr1197/project2/blob/master/Images/4.PNG" height="250" width="350">
 
+		Figure 3 & 4: Different combinations of wind and rain cases
+		
 5) Cross-correlation of Wind
 
 <img src="https://github.com/Rmr1197/project2/blob/master/Images/5.PNG" height="250" width="350"><img src="https://github.com/Rmr1197/project2/blob/master/Images/6.PNG" height="250" width="350">
 
+		Figure 5 & 6: Overlayed wind velocity and Cross correlation representation 
+		
 6) Cross-correlation of Rain
 
 <img src="https://github.com/Rmr1197/project2/blob/master/Images/7.PNG" height="250" width="350"><img src="https://github.com/Rmr1197/project2/blob/master/Images/8.PNG" height="250" width="350">
 
+		Figure 7 & 8: Overlayed rain rate and Cross correlation representation 
+		
 8) Monthly averages of Wind and Rain
 
 <img src="https://github.com/Rmr1197/project2/blob/master/Images/9.PNG" height="250" width="350"><img src="https://github.com/Rmr1197/project2/blob/master/Images/10.PNG" height="250" width="350">
 
+		Figure 9 & 10: Monthly average of wind and rain
+		
 ## References
 
 “Ocean Observatories Initiative.” Ocean Observatories Initiative, oceanobservatories.org/.
