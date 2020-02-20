@@ -6,7 +6,8 @@ Meteorology Package
 Code Link
 https://github.com/Rmr1197/project2/blob/master/Project%202%20Code.ipynb
 
-Problem Statement
+## Problem Statement
+
 We are to answer questions that involve the use of meteorology instruments that measure wind speed and rain rate. The questions are as follows.
 
 4) For each site, plot wind speed (in m/w) and rain rate (in mm/hr). Find these time windows: when it is windy and rainy, when it is rainy but not windy, when it is windy but not rainy, when it is not windy not rainy. Show each time period on your plot (for example, use different colors and have a legend to show which region each color represents)
