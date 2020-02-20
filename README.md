@@ -55,7 +55,7 @@ The highest correlation value found was 0.6314. This mathematically states that 
 	
 The rain values had a maximum correlation value of 0.3516. This is lower than the wind value. This is presumably due to the evaporation in the air less inland on days of higher heat, causing higher precipitation, as mentioned previously. The rain rate correlation, contrary to the wind speed, had a lag of 124 days. This seems like an abnormally high lag value. This value could be a seasonal effect, where we may see higher rainfall in the ocean than closer to shore in Summer, but vice versa in the colder seasons.
 
-### 7)
+### 7) Relationship between time lag for wind and rain
 
 There does not seem to be any relationship between the lag of wind speed and rain rate based on the calculations. The lag values are 124 days apart, which is approximately a 34% difference over the whole year. 
 
@@ -65,6 +65,16 @@ There does not seem to be any relationship between the lag of wind speed and rai
 
 		Figure 9 & 10: Monthly average of wind and rain
 		
+The average values in a way reinforce my statements from previous responses. For rain we see the same positive correlation pattern in the months of March through May, then an opposite response during the Summer, where the offshore levels are much higher than the shelf levels which are more inland. 
+
+The highest rain rate was in the month of June based on both sites, June for the shelf site, and July for offshore. These values all sit around 40 mm/hr. 
+The lowest rain rate was in the month of March for both sites, March for offshore, and July for shelf. These values are all 20 mm/hr or below.
+I noticed a small trend here, where the average low for both sites was the same as one of the other, and the remaining site's lows and highs were in the same month. 
+
+The highest wind velocity was in January for both, January for the offshore site, and January for the shelf site. These values are around 6.5 m/s. 
+The lowest wind speed was September for both, September for offshore, and August for Oregon shelf.
+I notice a similar pattern with wind speed as I did with rain rate. This could be a case for the correlation discussed earlier, where highs for one site will tend to be the highs for the other site at a given time of the year, and vice versa for the low values.
+
 ## References
 
 National Geographic Society, “wind,” National Geographic Society, 13-Nov-2012. [Online]. Available: https://www.nationalgeographic.org/encyclopedia/wind/. [Accessed: 20-Feb-2020].
