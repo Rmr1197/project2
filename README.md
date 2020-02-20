@@ -25,23 +25,23 @@ Which month had the highest wind speed? Which month had the lowest wind speed?
 	
 ## Solution
 
-4) Wind Speed
+4) Wind Speed and Rain Rate
 
 <img src="https://github.com/Rmr1197/project2/blob/master/Images/1.PNG" height="250" width="350"><img src="https://github.com/Rmr1197/project2/blob/master/Images/2.PNG" height="250" width="350">
 
-4) Cases of wind and rain
+4) Cases of Wind and Rain
 
 <img src="https://github.com/Rmr1197/project2/blob/master/Images/3.PNG" height="250" width="350"><img src="https://github.com/Rmr1197/project2/blob/master/Images/4.PNG" height="250" width="350">
 
-5) Cross-correlation of wind
+5) Cross-correlation of Wind
 
 <img src="https://github.com/Rmr1197/project2/blob/master/Images/5.PNG" height="250" width="350"><img src="https://github.com/Rmr1197/project2/blob/master/Images/6.PNG" height="250" width="350">
 
-6) Cross-correlation of rain
+6) Cross-correlation of Rain
 
 <img src="https://github.com/Rmr1197/project2/blob/master/Images/7.PNG" height="250" width="350"><img src="https://github.com/Rmr1197/project2/blob/master/Images/8.PNG" height="250" width="350">
 
-8) Monthly averages of wind and rain
+8) Monthly averages of Wind and Rain
 
 <img src="https://github.com/Rmr1197/project2/blob/master/Images/9.PNG" height="250" width="350"><img src="https://github.com/Rmr1197/project2/blob/master/Images/10.PNG" height="250" width="350">
 
