@@ -29,7 +29,7 @@ Which month had the highest wind speed? Which month had the lowest wind speed?
 
 <img src="https://github.com/Rmr1197/project2/blob/master/Images/1.PNG" height="250" width="350"><img src="https://github.com/Rmr1197/project2/blob/master/Images/2.PNG" height="250" width="350">
 
-###### 		Figure 1 & 2: Wind speed and rain rate plotted for both sites
+		Figure 1 & 2: Wind speed and rain rate plotted for both sites
 
 4) Cases of Wind and Rain
 
