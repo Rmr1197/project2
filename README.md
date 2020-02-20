@@ -24,8 +24,8 @@ Which month had the highest wind speed? Which month had the lowest wind speed?
 	
 Solution
 4) Wind Speed
-![](https://github.com/Rmr1197/project2/blob/master/Images/1.PNG)
-![](https://github.com/Rmr1197/project2/blob/master/images/2.PNG)
+![](https://github.com/Rmr1197/project2/blob/master/Images/1.PNG =250x250)
+![](https://github.com/Rmr1197/project2/blob/master/Images/2.PNG)
 4) Cases of wind and rain
 
 5) Cross-correlation of wind
